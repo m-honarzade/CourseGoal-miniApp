@@ -10,5 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 how the program work: you can add new goal with click button. also with click on any goal it will be removed.
 
 ###
-
+find demo in:
+https://course-goal-miniapp.netlify.app/
+###
 this project is learned by maximilian schwarzmüller react tutorial course.
